@@ -99,10 +99,10 @@
         "ai_gen_block_adef03d_UAzPwt": {
           "type": "ai_gen_block_adef03d",
           "settings": {
-            "text_1": "Diventiel",
-            "text_2": "Diventiel",
-            "text_3": "Diventiel",
-            "text_4": "Diventiel",
+            "text_1": "Diventiel Diventiel Diventiel",
+            "text_2": "Diventiel Diventiel Diventiel",
+            "text_3": "Diventiel Diventiel  Diventiel",
+            "text_4": "Diventiel Diventiel  Diventiel",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
