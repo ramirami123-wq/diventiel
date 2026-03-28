@@ -15,13 +15,13 @@
         "liquid_84FM9D": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.star-review-wrapper {\ndisplay: flex;\nalign-items: center;\ngap: 8px;\nflex-shrink: 0;\n}\n.star-icons svg {\nwidth: 20px;\nheight: 20px;\nfill: #660047; /* Your deep red color */\n}\n.review-text {\nfont-size: 16px;\nfont-weight: 500;\ncolor: #333;\nwhite-space: nowrap;\n}\n@media (max-width: 480px) {\n.star-review-wrapper {\nflex-direction: row;\njustify-content: center;\n}\n​\n}\n</style>\n<div class=\"star-review-wrapper\">\n<div class=\"star-icons\">\n<!-- 5 Rounded Stars -->\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n</div>\n<div class=\"review-text\">\n<strong>5</strong> by <strong>124+</strong> Customers\n</div>\n</div>"
+            "liquid": "<style>\n.star-review-wrapper {\ndisplay: flex;\nalign-items: center;\ngap: 8px;\nflex-shrink: 0;\n}\n.star-icons svg {\nwidth: 20px;\nheight: 20px;\nfill: #660047; /* Your deep red color */\n}\n.review-text {\nfont-size: 16px;\nfont-weight: 500;\ncolor: #333;\nwhite-space: nowrap;\n}\n@media (max-width: 480px) {\n.star-review-wrapper {\nflex-direction: row;\njustify-content: center;\n}\n​\n}\n</style>\n<div class=\"star-review-wrapper\">\n<div class=\"star-icons\">\n<!-- 5 Rounded Stars -->\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n</div>\n<div class=\"review-text\">\n<strong>5</strong> by <strong>36+</strong> Customers\n</div>\n</div>"
           }
         },
         "liquid_HApx3H": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Frizz-Free in Minutes</span> – Smooth and control your hair quickly for a sleek, polished look.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Designed for All Hair Types</span> – Gentle and effective styling without causing damage or dryness.<br><br>\n<span style=\"font-weight: bold;\">💫 Long-Lasting Shine</span> – Enjoy soft, silky, and glossy hair that stays fresh all day.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Instant Lift Effect </span> – Enhance your natural shape and achieve a firmer, lifted look in seconds.<br><br>\n<span style=\"font-weight: bold;\">🌿 Comfortable & Skin-Friendly</span> – Soft, breathable material that feels gentle and secure all day.<br><br>\n<span style=\"font-weight: bold;\">💫 Invisible Under Clothing</span> – Seamless design stays hidden for a smooth, confident finish.\n</div>"
           }
         },
         "liquid_WqHpzt": {
@@ -110,10 +110,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Smooth hair, zero effort.",
-            "text_2": "Smooth hair, zero effort.",
-            "text_3": "Smooth hair, zero effort.",
-            "text_4": "Smooth hair, zero effort.",
+            "text_1": "Instant Lift, Zero Effort.",
+            "text_2": "Instant Lift, Zero Effort.",
+            "text_3": "Instant Lift, Zero Effort.",
+            "text_4": "Instant Lift, Zero Effort.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -144,11 +144,11 @@
         "item_BrjwQF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885445_phptevb032u17in3zLxpY1.jpg",
+            "image": "shopify://shop_images/1761054754_php2k87njr5l6sret7uO2G.png",
             "tab_label": "Item",
             "subheading": "",
-            "title": "Effortless Styling",
-            "content": "<p></p><p><br/>Achieve smooth, frizz-free hair in just minutes with a brush designed to simplify your routine and save you time every day.<br/><br/></p>",
+            "title": "Effortless Lift",
+            "content": "<p></p><p><br/>Achieve a natural, lifted look in seconds with a design made to enhance your shape while keeping your routine quick and easy every day.<br/><br/></p>",
             "button_text": "",
             "button_link": ""
           }
@@ -212,11 +212,11 @@
         "item_GpEwj6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885446_php1i94r660q37u3RLGOGK.jpg",
+            "image": "shopify://shop_images/1761054753_php5npfjooq411sbTi6dJT.webp",
             "tab_label": "",
             "subheading": "",
-            "title": "Healthy Shine Finish",
-            "content": "<p><br/>Enjoy soft, silky hair with a natural shine that keeps your look fresh, polished, and full of life all day long.<br/></p>",
+            "title": "Natural Lift Finish",
+            "content": "<p><br/>Enjoy a smooth, enhanced shape with a natural-looking lift that keeps your silhouette confident, supported, and flawless all day long.</p>",
             "button_text": "",
             "button_link": ""
           }
