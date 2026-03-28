@@ -245,7 +245,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "2-in-1 Mist + Brush",
+            "row_heading": "Instant Lift Effect",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -255,7 +255,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Reduces Frizz Quickly",
+            "row_heading": "Invisible Under Clothing",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -265,7 +265,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Gentle on All Hair Types",
+            "row_heading": "Long Lasting Hold",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -275,7 +275,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Even Product Distribution",
+            "row_heading": "WaterProof & Sweatproof",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -418,29 +418,29 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
-            "answer": "<p>Absolutely! It works well on straight, wavy, curly, and thick hair.</p>"
+            "title": "Can it be worn on all body types?",
+            "answer": "<p>Absolutely! It provides a natural lift and support for all shapes and sizes.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it damage hair?",
-            "answer": "<p>No, it is gentle on hair and helps reduce frizz without causing damage when used properly.</p>"
+            "title": "Is it comfortable to wear?",
+            "answer": "<p>Yes, it’s designed with soft, breathable materials that stay secure without irritation.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
             "title": "How do I use it?",
-            "answer": "<p>Simply fill the mist compartment (if applicable), spray lightly, and brush through your hair for smooth results.</p>"
+            "answer": "<p>Simply put it on, adjust for a snug fit, and enjoy instant lift and shape under any outfit.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Can I use it daily?",
-            "answer": "<p>Yes, it’s perfect for everyday styling and quick touch-ups.</p>"
+            "title": "Can I wear it all day?",
+            "answer": "<p>Yes! It’s made for long-lasting comfort and support, keeping your silhouette flawless throughout the day.</p>"
           }
         }
       },
