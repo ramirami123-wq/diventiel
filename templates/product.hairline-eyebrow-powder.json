@@ -21,7 +21,7 @@
         "liquid_HApx3H": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 in Minutes</span> – Smooth and control your hair quickly for a sleek, polished look.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Designed for All Hair Types</span> – Gentle and effective styling without causing damage or dryness.<br><br>\n<span style=\"font-weight: bold;\">💫 Long-Lasting Shine</span> – Enjoy soft, silky, and glossy hair that stays fresh all day.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Instant Fuller Look</span> – Fill in sparse areas and define your hairline or brows in seconds for a naturally fuller appearance.<br><br>\n<span style=\"font-weight: bold;\">🌿 Natural Blend Formula</span> – Soft powder texture blends seamlessly with your hair and skin for a realistic, undetectable finish.<br><br>\n<span style=\"font-weight: bold;\">💧 Long-Lasting & Smudge-Resistant</span> – Stays in place all day without fading, smudging, or transferring.\n</div>"
           }
         },
         "liquid_WqHpzt": {
@@ -110,10 +110,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Smooth hair, zero effort.",
-            "text_2": "Smooth hair, zero effort.",
-            "text_3": "Smooth hair, zero effort.",
-            "text_4": "Smooth hair, zero effort.",
+            "text_1": "Natural Fullness, Zero Effort",
+            "text_2": "Natural Fullness, Zero Effort",
+            "text_3": "Natural Fullness, Zero Effort",
+            "text_4": "Natural Fullness, Zero Effort",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -144,11 +144,11 @@
         "item_BrjwQF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885445_phptevb032u17in3zLxpY1.jpg",
+            "image": "shopify://shop_images/1767015643_phpvjpmntpu2m9mbp7X41h.jpg",
             "tab_label": "Item",
             "subheading": "",
             "title": "Effortless Styling",
-            "content": "<p></p><p><br/>Achieve smooth, frizz-free hair in just minutes with a brush designed to simplify your routine and save you time every day.<br/><br/></p>",
+            "content": "<p></p><p><br/>Quickly touch up your hairline and brows anytime, anywhere. Perfect for daily use or last-minute fixes when you need to look polished fast.<br/></p>",
             "button_text": "",
             "button_link": ""
           }
@@ -212,11 +212,11 @@
         "item_GpEwj6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885446_php1i94r660q37u3RLGOGK.jpg",
+            "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
             "tab_label": "",
             "subheading": "",
-            "title": "Healthy Shine Finish",
-            "content": "<p><br/>Enjoy soft, silky hair with a natural shine that keeps your look fresh, polished, and full of life all day long.<br/></p>",
+            "title": "Healthy Natural Finish",
+            "content": "<p><br/>Lightweight and non-cakey formula that leaves your hairline and brows looking soft, full, and naturally defined never harsh or overdone.<br/></p>",
             "button_text": "",
             "button_link": ""
           }
@@ -245,7 +245,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "2-in-1 Mist + Brush",
+            "row_heading": "Natural Hair-Like Finish",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -255,7 +255,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Reduces Frizz Quickly",
+            "row_heading": "Smudge-Resistant Formula",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -265,7 +265,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Gentle on All Hair Types",
+            "row_heading": "Works for Hairline & Brows",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -275,7 +275,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Even Product Distribution",
+            "row_heading": "Long-Lasting All Day Wear",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -418,22 +418,22 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
-            "answer": "<p>Absolutely! It works well on straight, wavy, curly, and thick hair.</p>"
+            "title": "Is it suitable for all hair types?",
+            "answer": "<p>Yes! It works on straight, wavy, curly, and textured hair.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it damage hair?",
-            "answer": "<p>No, it is gentle on hair and helps reduce frizz without causing damage when used properly.</p>"
+            "title": "Will it look fake or powdery?",
+            "answer": "<p>No, the formula is designed to blend naturally for a soft, realistic finish.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "How do I use it?",
-            "answer": "<p>Simply fill the mist compartment (if applicable), spray lightly, and brush through your hair for smooth results.</p>"
+            "title": "Is it easy to use?",
+            "answer": "<p>Absolutely! it’s perfect for everyday use and quick touch-ups.</p>"
           }
         },
         "question_7Rxwez": {
