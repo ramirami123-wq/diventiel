@@ -21,7 +21,7 @@
         "liquid_HApx3H": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 in Minutes</span> – Smooth and control your hair quickly for a sleek, polished look.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Designed for All Hair Types</span> – Gentle and effective styling without causing damage or dryness.<br><br>\n<span style=\"font-weight: bold;\">💫 Long-Lasting Shine</span> – Enjoy soft, silky, and glossy hair that stays fresh all day.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🧼 Deep Yet Gentle Cleansing </span> – Effectively removes dirt, oil, and dead skin without irritating your skin.<br><br>\n<span style=\"font-weight: bold;\">💧 Hygienic & Quick-Drying</span> – Unlike loofahs, silicone resists bacteria buildup and dries fast.<br><br>\n<span style=\"font-weight: bold;\">💆 Relaxing Massage Effect</span> – Stimulates circulation while giving you a soothing shower experience.\n</div>"
           }
         },
         "liquid_WqHpzt": {
@@ -110,10 +110,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Smooth hair, zero effort.",
-            "text_2": "Smooth hair, zero effort.",
-            "text_3": "Smooth hair, zero effort.",
-            "text_4": "Smooth hair, zero effort.",
+            "text_1": "Clean skin, zero bacteria.",
+            "text_2": "Clean skin, zero bacteria.",
+            "text_3": "Clean skin, zero bacteria.",
+            "text_4": "Clean skin, zero bacteria.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -144,11 +144,11 @@
         "item_BrjwQF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885445_phptevb032u17in3zLxpY1.jpg",
+            "image": "shopify://shop_images/1757154804_phpj042ofgp02ib63DOL6U.webp",
             "tab_label": "Item",
             "subheading": "",
-            "title": "Effortless Styling",
-            "content": "<p></p><p><br/>Achieve smooth, frizz-free hair in just minutes with a brush designed to simplify your routine and save you time every day.<br/><br/></p>",
+            "title": " Effortless Cleansing",
+            "content": "<p></p><p><br/>Upgrade your shower routine with a brush that cleans, exfoliates, and massages all in one simple step.<br/></p>",
             "button_text": "",
             "button_link": ""
           }
@@ -212,11 +212,11 @@
         "item_GpEwj6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1772885446_php1i94r660q37u3RLGOGK.jpg",
+            "image": "shopify://shop_images/1757154804_phpsa90vsp8v45fbAfkIOZ.webp",
             "tab_label": "",
             "subheading": "",
-            "title": "Healthy Shine Finish",
-            "content": "<p><br/>Enjoy soft, silky hair with a natural shine that keeps your look fresh, polished, and full of life all day long.<br/></p>",
+            "title": "Healthy Skin Finish",
+            "content": "<p><br/>Reveal smoother, cleaner, and healthier-looking skin with every wash no harsh scrubbing needed.<br/></p>",
             "button_text": "",
             "button_link": ""
           }
@@ -245,7 +245,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "2-in-1 Mist + Brush",
+            "row_heading": "Hygienic Silicone Material",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -255,7 +255,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Reduces Frizz Quickly",
+            "row_heading": "Gentle on Sensitive Skin",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -265,7 +265,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Gentle on All Hair Types",
+            "row_heading": "Built-In Massage Effect",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -275,7 +275,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Even Product Distribution",
+            "row_heading": "Long-Lasting Use",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -418,29 +418,29 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
-            "answer": "<p>Absolutely! It works well on straight, wavy, curly, and thick hair.</p>"
+            "title": "Is it suitable for sensitive skin?",
+            "answer": "<p>Yes! The soft silicone bristles are gentle and safe for sensitive skin.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it damage hair?",
-            "answer": "<p>No, it is gentle on hair and helps reduce frizz without causing damage when used properly.</p>"
+            "title": "Is it better than a loofah?",
+            "answer": "<p>Yes it’s more hygienic, easier to clean, and doesn’t trap bacteria like traditional loofahs.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "How do I use it?",
-            "answer": "<p>Simply fill the mist compartment (if applicable), spray lightly, and brush through your hair for smooth results.</p>"
+            "title": "How do I clean it?",
+            "answer": "<p>Simply rinse with water and let it dry — it dries quickly and stays clean.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
             "title": "Can I use it daily?",
-            "answer": "<p>Yes, it’s perfect for everyday styling and quick touch-ups.</p>"
+            "answer": "<p>Absolutely! It’s designed for everyday use.</p>"
           }
         }
       },
